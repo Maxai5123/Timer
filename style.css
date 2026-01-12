@@ -1,0 +1,35 @@
+body {
+    background-color: #000000;
+    text-align: center;
+}
+
+.main-timer {
+    background-color: #14213d;
+    color: #fca311;
+    width: 500px;
+    height: 200px;
+    margin: 50px auto;
+    padding: 30px;
+}
+
+button {
+    background-color: #14213d;
+    color: #e5e5e5;
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: 16px;
+    border: 2px solid #fca311;
+}
+
+button:hover {
+    background-color: #fca311;
+    color: #14213d;
+}
+
+button:active {
+    background-color: #14213d;
+    color: #e5e5e5;
+    border: 2px solid #e5e5e5;
+}
+
+
